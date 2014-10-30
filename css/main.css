@@ -1,0 +1,56 @@
+footer {
+  background: #aaa;
+  color: #fff;
+  padding: 1.5em;
+}
+header {
+  background: #444;
+  color: #fff;
+  padding: 1em;
+}
+header h1 {
+  font-size: 18px;
+  font-weight: normal;
+  margin: 0;
+  padding: 0;
+}
+header .logo figure {
+  border: 1px dashed #bbb;
+  height: 50px;
+  width: 50px;
+}
+header .avatar {
+  border: 1px dashed #bbb;
+  border-radius: 50%;
+  height: 50px;
+  width: 50px;
+}
+section {
+  padding: 1.2em;
+  background: #aaa;
+}
+section article {
+  background: #fff;
+  border: 1px solid #aaa;
+  border-radius: 0 0 1em 1em;
+  margin-bottom: 1em;
+  overflow: hidden;
+}
+section figure {
+  background: #444;
+  height: 160px;
+  width: 120px;
+}
+section h2 {
+  font-size: 18px;
+  color: #444;
+}
+section .acciones {
+  border-top: 3px solid #aaa;
+  min-height: 3em;
+  padding: 1em;
+}
+section .fecha {
+  position: relative;
+  right: 20px;
+}
